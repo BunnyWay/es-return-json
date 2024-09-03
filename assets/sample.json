@@ -1,0 +1,45 @@
+{
+  "_id": "66d5bb3e6f40c2b8c79d2181",
+  "index": 0,
+  "guid": "0919937a-ec3a-4bc4-a9e7-0b61989320a7",
+  "isActive": true,
+  "balance": "$2,314.39",
+  "picture": "http://placehold.it/32x32",
+  "age": 24,
+  "eyeColor": "green",
+  "name": "Burton Schneider",
+  "gender": "male",
+  "company": "ZOID",
+  "email": "burtonschneider@zoid.com",
+  "phone": "+1 (931) 517-3038",
+  "address": "147 Union Avenue, Guthrie, Marshall Islands, 4881",
+  "about": "Sit eiusmod nisi do nostrud tempor reprehenderit exercitation. Elit dolore do eiusmod Lorem magna. Fugiat aute aliquip duis duis magna aliqua dolor enim. Consequat enim Lorem ut irure voluptate aute reprehenderit qui minim laborum et.\r\n",
+  "registered": "2016-07-17T07:24:51 -02:00",
+  "latitude": -64.636593,
+  "longitude": 96.308249,
+  "tags": [
+    "ea",
+    "id",
+    "sint",
+    "minim",
+    "ex",
+    "laborum",
+    "pariatur"
+  ],
+  "friends": [
+    {
+      "id": 0,
+      "name": "Price Wilkinson"
+    },
+    {
+      "id": 1,
+      "name": "Brennan Jarvis"
+    },
+    {
+      "id": 2,
+      "name": "Boone Higgins"
+    }
+  ],
+  "greeting": "Hello, Burton Schneider! You have 2 unread messages.",
+  "favoriteFruit": "banana"
+}
